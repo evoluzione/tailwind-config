@@ -10,7 +10,7 @@ If you want to extend the existing config:
 // tailwind.config.js
 
 module.exports = {
-  presets: [require("@evoluzione/tailwind-config")],
+  presets: [require('@evoluzione/tailwind-config')],
   safelist: ['aspect-w-21', '...'],
 };
 ```
@@ -21,6 +21,6 @@ If you want to use the config as is:
 // tailwind.config.js
 
 module.exports = {
-  presets: [require("@evoluzione/tailwind-config")],
+  presets: [require('@evoluzione/tailwind-config')],
 };
 ```
