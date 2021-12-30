@@ -7,6 +7,9 @@
 		"tailwind",
 		"config"
 	],
+	"publishConfig": {
+		"access": "public"
+	},
 	"license": "MIT",
     "dependencies": {
 		"@tailwindcss/aspect-ratio": "^0.4.0",
