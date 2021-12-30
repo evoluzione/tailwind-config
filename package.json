@@ -1,0 +1,18 @@
+{
+	"name": "@evoluzione/tailwind-config",
+	"description": "Tailwind CSS configuration",
+	"version": "1.0.0",
+    "main": "index.js",
+	"keywords": [
+		"tailwind",
+		"config"
+	],
+	"license": "MIT",
+    "dependencies": {
+		"@tailwindcss/aspect-ratio": "^0.4.0",
+		"@tailwindcss/forms": "^0.4.0",
+		"@tailwindcss/line-clamp": "^0.3.0",
+		"@tailwindcss/typography": "^0.5.0",
+        "tailwindcss-debug-screens": "^2.2.1"
+	}
+}
