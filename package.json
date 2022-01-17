@@ -1,7 +1,7 @@
 {
 	"name": "@evoluzione/tailwind-config",
 	"description": "Tailwind CSS configuration",
-	"version": "1.0.6",
+	"version": "1.0.7",
     "main": "index.js",
 	"keywords": [
 		"tailwind",

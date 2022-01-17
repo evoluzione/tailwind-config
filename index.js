@@ -33,7 +33,7 @@ module.exports = {
 				quaternary: 'var(--ground-color-quaternary)',
 				quinary: 'var(--ground-color-quinary)',
 				senary: 'var(--ground-color-senary)',
-				'line-primary': 'var(--ground-color-line-primary)',
+				septenary: 'var(--ground-color-septenary)',
 				'line-secondary': 'var(--ground-color-line-secondary)'
 			},
 			margin: {
