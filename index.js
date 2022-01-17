@@ -31,7 +31,7 @@ module.exports = {
 				secondary: 'var(--ground-color-secondary)',
 				tertiary: 'var(--ground-color-tertiary)',
 				quaternary: 'var(--ground-color-quaternary)',
-				'body-primary': 'var(--ground-color-body-primary)',
+				quinary: 'var(--ground-color-quinary)',
 				'body-secondary': 'var(--ground-color-body-secondary)',
 				'line-primary': 'var(--ground-color-line-primary)',
 				'line-secondary': 'var(--ground-color-line-secondary)'
