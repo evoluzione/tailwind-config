@@ -32,7 +32,7 @@ module.exports = {
 				tertiary: 'var(--ground-color-tertiary)',
 				quaternary: 'var(--ground-color-quaternary)',
 				quinary: 'var(--ground-color-quinary)',
-				'body-secondary': 'var(--ground-color-body-secondary)',
+				senary: 'var(--ground-color-senary)',
 				'line-primary': 'var(--ground-color-line-primary)',
 				'line-secondary': 'var(--ground-color-line-secondary)'
 			},
