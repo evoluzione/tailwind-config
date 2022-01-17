@@ -29,7 +29,7 @@ module.exports = {
 			colors: {
 				primary: 'var(--ground-color-primary)',
 				secondary: 'var(--ground-color-secondary)',
-				'typo-primary': 'var(--ground-color-tertiary)',
+				tertiary: 'var(--ground-color-tertiary)',
 				'typo-secondary': 'var(--ground-color-typo-secondary)',
 				'body-primary': 'var(--ground-color-body-primary)',
 				'body-secondary': 'var(--ground-color-body-secondary)',
