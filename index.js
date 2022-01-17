@@ -15,21 +15,21 @@ module.exports = {
 				DEFAULT: {
 					css: {
 						maxWidth: '100%',
-						color: 'var(--ground-color-typo-primary)',
-						h1: { color: 'var(--ground-color-typo-primary)' },
-						h2: { color: 'var(--ground-color-typo-primary)' },
-						h3: { color: 'var(--ground-color-typo-primary)' },
-						h4: { color: 'var(--ground-color-typo-primary)' },
-						h5: { color: 'var(--ground-color-typo-primary)' },
-						h6: { color: 'var(--ground-color-typo-primary)' },
-						strong: { color: 'var(--ground-color-typo-primary)' }
+						color: 'var(--ground-color-tertiary)',
+						h1: { color: 'var(--ground-color-tertiary)' },
+						h2: { color: 'var(--ground-color-tertiary)' },
+						h3: { color: 'var(--ground-color-tertiary)' },
+						h4: { color: 'var(--ground-color-tertiary)' },
+						h5: { color: 'var(--ground-color-tertiary)' },
+						h6: { color: 'var(--ground-color-tertiary)' },
+						strong: { color: 'var(--ground-color-tertiary)' }
 					}
 				}
 			}),
 			colors: {
 				primary: 'var(--ground-color-primary)',
 				secondary: 'var(--ground-color-secondary)',
-				'typo-primary': 'var(--ground-color-typo-primary)',
+				'typo-primary': 'var(--ground-color-tertiary)',
 				'typo-secondary': 'var(--ground-color-typo-secondary)',
 				'body-primary': 'var(--ground-color-body-primary)',
 				'body-secondary': 'var(--ground-color-body-secondary)',
