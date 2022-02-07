@@ -1,7 +1,7 @@
 {
 	"name": "@evoluzione/tailwind-config",
 	"description": "Tailwind CSS configuration",
-	"version": "1.0.8",
+	"version": "1.0.10",
     "main": "index.js",
 	"keywords": [
 		"tailwind",
@@ -14,8 +14,8 @@
     "dependencies": {
 		"@tailwindcss/aspect-ratio": "^0.4.0",
 		"@tailwindcss/forms": "^0.4.0",
-		"@tailwindcss/line-clamp": "^0.3.0",
-		"@tailwindcss/typography": "^0.5.0",
+		"@tailwindcss/line-clamp": "^0.3.1",
+		"@tailwindcss/typography": "^0.5.1",
         "tailwindcss-debug-screens": "^2.2.1"
 	}
 }
