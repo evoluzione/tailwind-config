@@ -1,6 +1,15 @@
 module.exports = {
-	content: ['./**/*.php', './dist/js/**/!(vendors-node_modules*).js'],
-	safelist: ['aspect-w-21', 'aspect-w-16', 'aspect-h-9', 'aspect-w-4', 'aspect-h-3'],
+	content: [
+		'./**/*.php',
+		'./dist/js/ground-*.min.js'
+	],
+	safelist: [
+		'aspect-w-21',
+		'aspect-w-16',
+		'aspect-w-4',
+		'aspect-h-9',
+		'aspect-h-3'
+	],
 	darkMode: 'media', // false, 'media' or 'class'
 	theme: {
 		container: {
