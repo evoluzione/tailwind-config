@@ -1,7 +1,7 @@
 module.exports = {
 	content: [
 		'./**/*.php',
-		'./dist/js/(ground*).js'
+		'./dist/js/ground-*.min.js'
 	],
 	safelist: [
 		'aspect-w-21',
