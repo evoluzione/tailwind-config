@@ -4,6 +4,7 @@ module.exports = {
 		'./dist/js/ground-*.min.js'
 	],
 	safelist: [
+		'aspect-w-27',
 		'aspect-w-21',
 		'aspect-w-16',
 		'aspect-w-4',
@@ -12,6 +13,10 @@ module.exports = {
 	],
 	darkMode: 'media', // false, 'media' or 'class'
 	theme: {
+		aspectRatio: {
+			21: '21',
+			27: '27'
+		},
 		container: {
 			center: true,
 			padding: '1.5rem',
