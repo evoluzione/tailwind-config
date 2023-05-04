@@ -1,12 +1,9 @@
 {
 	"name": "@evoluzione/tailwind-config",
 	"description": "Tailwind CSS configuration",
-	"version": "1.0.14",
+	"version": "1.0.15",
 	"main": "index.js",
-	"keywords": [
-		"tailwind",
-		"config"
-	],
+	"keywords": ["tailwind", "config"],
 	"publishConfig": {
 		"access": "public"
 	},
@@ -14,8 +11,7 @@
 	"dependencies": {
 		"@tailwindcss/aspect-ratio": "^0.4.2",
 		"@tailwindcss/forms": "^0.5.3",
-		"@tailwindcss/line-clamp": "^0.4.2",
-		"@tailwindcss/typography": "^0.5.8",
+		"@tailwindcss/typography": "^0.5.9",
 		"tailwindcss-debug-screens": "^2.2.1"
 	}
 }
