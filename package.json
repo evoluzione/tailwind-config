@@ -1,7 +1,7 @@
 {
 	"name": "@evoluzione/tailwind-config",
 	"description": "Tailwind CSS configuration",
-	"version": "1.0.16",
+	"version": "1.1.0",
 	"main": "index.js",
 	"keywords": ["tailwind", "config"],
 	"publishConfig": {
@@ -10,8 +10,9 @@
 	"license": "MIT",
 	"dependencies": {
 		"@tailwindcss/aspect-ratio": "^0.4.2",
-		"@tailwindcss/forms": "^0.5.3",
-		"@tailwindcss/typography": "^0.5.9",
+		"@tailwindcss/forms": "^0.5.7",
+		"@tailwindcss/typography": "^0.5.10",
+		"tailwindcss": "3.4.0",
 		"tailwindcss-debug-screens": "^2.2.1"
 	}
 }
